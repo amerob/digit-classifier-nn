@@ -6,7 +6,7 @@ Welcome to the **Handwritten Digit Classification** project! This project demons
 
 ## Features
 
-- **Deep Learning**: A neural network trained on the **MNIST dataset** for digit recognition.
+- **Deep Learning**: A neural network trained for digit recognition.
 - **Interactive GUI**: Draw digits on a canvas and get instant predictions.
 - **Customizable**: Experiment with different model architectures and hyperparameters to improve results.
 
