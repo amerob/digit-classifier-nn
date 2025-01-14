@@ -1,4 +1,4 @@
- Handwritten Digit Classification with Neural Networks
+#  Handwritten Digit Classification with Neural Networks
 
 Welcome to the **Handwritten Digit Classification** project! This project demonstrates how to classify handwritten digits using a deep learning model and features an intuitive **GUI** for real-time drawing and classification.
 
