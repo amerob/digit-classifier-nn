@@ -72,6 +72,9 @@ python gui.py
 
 The default neural network achieves high accuracy on the MNIST dataset. Experiment with the architecture and hyperparameters to further enhance performance.
 
+![heatmap](https://github.com/user-attachments/assets/79056525-d0c1-4c6c-84fb-e6ae82bba146)
+
+
 ---
 
 ## Future Enhancements
