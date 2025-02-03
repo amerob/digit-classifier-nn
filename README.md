@@ -3,7 +3,7 @@
 Welcome to the **Handwritten Digit Classification** project! This project demonstrates how to classify handwritten digits using a deep learning model and features an intuitive **GUI** for real-time drawing and classification.
 
 
->  <img src="https://github.com/user-attachments/assets/95e5682c-37d0-4973-9990-9f4b873b3c97" width="500">
+>  <img src="https://github.com/user-attachments/assets/95e5682c-37d0-4973-9990-9f4b873b3c97" width="400">
 
 ---
 
