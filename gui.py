@@ -171,7 +171,13 @@ class DigitRecognizerApp:
         label = np.argmax(result, axis=1)[0]
         self.lbl_status.config(text=f'PREDICTED DIGIT: {label}')
         self.status_bar.config(text=f"Prediction complete: {label}")
-
+        
+    def show_about(self):
+        about_text = ("Handwritten Digit Recognition System\n\n"
+                     "Version 2.0\n"
+                     "Developed by Amer O.\n"
+                     "Using Keras Neural Network Model")
+        messagebox.showinfo("About", about_text)
 
 if __name__ == "__main__":
     root = ThemedTk(theme="arc")
